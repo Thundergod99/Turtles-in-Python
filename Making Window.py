@@ -1,15 +1,15 @@
 import turtle
 
-Tushar_turtle = turtle.Turtle()
+name_your_Turtle_turtle = turtle.Turtle()
 
 def square():
-	Tushar_turtle.forward(100)
-	Tushar_turtle.right(90)
-	Tushar_turtle.forward(100)
-	Tushar_turtle.right(90)
-	Tushar_turtle.forward(100)
-	Tushar_turtle.right(90)
-	Tushar_turtle.forward(100)
+	name_your_Turtle_turtle.forward(100)
+	name_your_Turtle_turtle.right(90)
+	name_your_Turtle_turtle.forward(100)
+	name_your_Turtle_turtle.right(90)
+	name_your_Turtle_turtle.forward(100)
+	name_your_Turtle_turtle.right(90)
+	name_your_Turtle_turtle.forward(100)
 
 
 
