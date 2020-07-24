@@ -10,8 +10,6 @@ def square():
 	name_your_Turtle_turtle.forward(100)
 	name_your_Turtle_turtle.right(90)
 	name_your_Turtle_turtle.forward(100)
-	
-square
 
-
-
+for count in range(4):
+	square()
