@@ -1,0 +1,17 @@
+import turtle
+#square
+Tushar_turtle = turtle.Turtle()
+
+def square():
+	Tushar_turtle.forward(100)
+	Tushar_turtle.right(90)
+	Tushar_turtle.forward(100)
+	Tushar_turtle.right(90)
+	Tushar_turtle.forward(100)
+	Tushar_turtle.right(90)
+	Tushar_turtle.forward(100)
+
+
+
+for count in range(9):
+	square()
