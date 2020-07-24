@@ -1,5 +1,5 @@
 import turtle
-#square
+
 Tushar_turtle = turtle.Turtle()
 
 def square():
