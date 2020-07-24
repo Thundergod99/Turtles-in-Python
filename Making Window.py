@@ -13,5 +13,3 @@ def square():
 
 
 
-for count in range(9):
-	square()
